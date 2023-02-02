@@ -1,0 +1,6 @@
+pandas_datareader
+pandas
+numpy
+matplotlib
+seaborn
+Tushare
